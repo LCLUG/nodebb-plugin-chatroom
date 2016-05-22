@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/LCLUG/nodebb-plugin-chatroom",
+    "library": "./index.js",
+    "staticDirs": {
+        "images": "public/images"
+    },
+    "less": [
+        "assets/style.less"
+    ],
+    "hooks": []
+}
