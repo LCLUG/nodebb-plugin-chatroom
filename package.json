@@ -1,0 +1,22 @@
+{
+  "name": "nodebb-plugin-chatroom",
+  "version": "0.0.1",
+  "description": "A Chatroom for nodebb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCLUG/nodebb-plugin-chatroom.git"
+  },
+  "keywords": [
+    "nodebb"
+  ],
+  "author": "Tim holum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LCLUG/nodebb-plugin-chatroom/issues"
+  },
+  "homepage": "https://github.com/LCLUG/nodebb-plugin-chatroom#readme"
+}
